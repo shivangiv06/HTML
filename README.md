@@ -1,3 +1,3 @@
 This is my first git repository.
 <br>
-Author - Shivangi Verma
+Author - Shivangi Verma (MCA)
