@@ -1,4 +1,3 @@
-my First page
-
+This is my first git repository.
 <br>
-author - shivangi verma
+Author - Shivangi Verma
